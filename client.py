@@ -8,7 +8,7 @@ pygame.display.set_caption("Client")
 
 clientNumber = 0
 
-
+kiskcikikiki
 class Player():
     def __init__(self, x, y, width, height, color):
         self.x = x
