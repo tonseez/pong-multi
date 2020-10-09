@@ -1,6 +1,6 @@
 import pygame
 from network import Network
-
+#GAYELORD GROS FILS DE MOULE
 width = 500
 height = 500
 win = pygame.display.set_mode((width, height))
